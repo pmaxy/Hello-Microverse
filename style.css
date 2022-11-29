@@ -2,6 +2,9 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
+
+.header {
   justify-content: center;
+  color: #444fff;
+
 }
