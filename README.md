@@ -32,7 +32,7 @@
 - [❓ FAQ](#faq)
 -
 
-<!-- PROJECT DESCRIPTION -->
+
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
